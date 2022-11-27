@@ -1,4 +1,7 @@
-# Developing a Neural Network Classification Model
+## EXP.NO : 2
+## DATE :
+
+# <p align="center"> Developing a Neural Network Classification Model </p>
 
 ## AIM:
 
@@ -46,6 +49,8 @@ Predicting the model through classification report,confusion matrix.
 Predict the new sample data.
 
 ## PROGRAM:
+#### Developed by : KAYALVIZHI M
+#### Register Number : 212220230024
 ```python
 import pandas as pd
 from sklearn.model_selection import train_test_split
